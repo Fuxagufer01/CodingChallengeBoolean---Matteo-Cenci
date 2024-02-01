@@ -1,0 +1,80 @@
+.toppart{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.45);
+  display: grid;
+  border-radius: 16px;
+  padding: 90px;
+
+}
+
+
+.logo{
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.titlelogo{
+  width: 1000px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  color: #00dd00;
+}
+
+.button{
+  width: 790px;
+  background-color: #00dd00;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.buttonsettings{
+  text-align: center;
+
+}
+.mainstyle{
+  color: white;
+  width: 800px;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+
+}
+
+.battery1{
+  background-color: orange;
+  padding: 2px;
+  margin: auto;
+  border-radius: 4px;
+  color: orange;
+}
+
+.battery2{
+  background-color: #00dd00;
+  padding: 2px;
+  margin: auto;
+  border-radius: 4px;
+  color: #00dd00;
+}
+
+.battery3{
+  background-color: #be4141;
+  padding: 2px;
+  margin: auto;
+  border-radius: 4px;
+  color: #be4141;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* .textbattery{
+  color: trasparent;
+} */
